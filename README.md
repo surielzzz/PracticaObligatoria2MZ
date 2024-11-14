@@ -81,12 +81,12 @@ Pediremos datos básicos para poder tener información personal.
 
 ### 1.4. Mostrar las entradas.
 Dependiendo el evento elegido, se mostraran las entradas con sus respectivas informaciones dentro, así también como un código único, que servirá para evitar falsificaciones.
-![](https://media.discordapp.net/attachments/1285298181797576846/1306352176204873839/image.png?ex=67370385&is=6735b205&hm=fd2b16ae886cf56cb1bf43899a8aae74d789e5ddd8d95e6b5e18737f96c570a3&=&format=webp&quality=lossless&width=718&height=282)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306663780297478164/image.png?ex=67377cf9&is=67362b79&hm=19a33dd0e81beba5f77273889534d5a72277ef2b9ca592abd8ff2c87152fd94c&=&format=webp&quality=lossless&width=1440&height=458)
 
 
 ### 1.5. Mostrar la factura.
 Después de enseñar todas las entradas, pasará a mostrar una pequeña factura con el monto total (aplicado o no el descuento).
-![](https://media.discordapp.net/attachments/1285298181797576846/1306352460993921106/image.png?ex=673703c9&is=6735b249&hm=cbf09051277e0b017302bf2c3a0685bd0d501b8af3c92a6ae2066b3fce29db6a&=&format=webp&quality=lossless&width=637&height=268)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306664137639858228/image.png?ex=67377d4f&is=67362bcf&hm=e539e625ebe3be99aa5804bf74da3e2998de828b7fd099b818156b3603105a2a&=&format=webp&quality=lossless&width=645&height=260)
 
 
 ### 1.6. Pedir dinero y dar cambio.
