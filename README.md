@@ -30,11 +30,11 @@ Para poder ejecutar el programa debemos instalar el [JDK 23.0.1](http://https://
 
 Después iremos al buscador de Windows, buscaremos "Editar las variables de entorno del sistema".
 
-![](https://media.discordapp.net/attachments/1285298181797576846/1306357505328156672/image.png?ex=67365fbc&is=67350e3c&hm=0316a0ae44b4d9ba94dc3f5a75712fa4eb4ccf28688c1ff0a3c2e7c2b3f07852&=&format=webp&quality=lossless&width=550&height=600)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306357505328156672/image.png?ex=6763db7c&is=676289fc&hm=f6bb1dd15f4b0a9d11427359714364e5a63b116de1cf1f377a371346e9db203d&=&format=webp&quality=lossless)
 
 
 Pulsaremos donde dice "variables de entorno", dentro, nos digiramos a "variables del sistema", seleccionamos "Path" y le damos a editar.
-![](https://media.discordapp.net/attachments/1285298181797576846/1306358824403337216/image.png?ex=673660f6&is=67350f76&hm=41f15adcfa5524b781a30715a235165f5079f1940f2b6c5b6c2ebe2c886667d8&=&format=webp&quality=lossless&width=718&height=331)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306358824403337216/image.png?ex=6763dcb6&is=67628b36&hm=be1875380497ad338db0b6ae331e8d498ffe0470d24aab87be4e997545dd76d6&=&format=webp&quality=lossless)
 
 Se abrirá la siguiente ventana, clicáremos en la variable de Java e introducimos la siguiente la ruta (**C:\Program Files\Java\jdk-18.0.2.1\bin**), le damos a enter para confirmar y aceptar.
 
@@ -43,10 +43,10 @@ Descargamos del enlace a GitHub el archivo .zip, creamos una carpeta en C con el
 
 # 0.1. Descarga.
 Para poder utilizar este programa, deberemos de darle al botón verde en GitHub que dice "code", en este seleccionaremos la opción en la parte inferior que dice "Download zip".
-![](https://media.discordapp.net/attachments/1285298181797576846/1306608106134048859/image.png?ex=67374920&is=6735f7a0&hm=9717dd6f6b8aed4f0f72afe080e8438c84000ce549b86fb8855b933cbdf491fc&=&format=webp&quality=lossless)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306608106134048859/image.png?ex=67637360&is=676221e0&hm=5733dc0653ed7f321aafc5a51a47c836455e1e279e40356793b857ea1076fb24&=&format=webp&quality=lossless)
 
 Cuando pulsemos, se nos descargará una carpeta comprimida (extensión .zip), la descomprimiremos y dentro le daremos doble clic derecho al archivo de extensión .bat. Este será el ejecutable que nos servirá para usar el programa.
-![](https://media.discordapp.net/attachments/1285298181797576846/1306611922766139516/image.png?ex=67374cae&is=6735fb2e&hm=420895aa1ad84d1375996cf2d21ce9e5197ddd5d6018f2ff0e2b0d9625992c23&=&format=webp&quality=lossless)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306611922766139516/image.png?ex=676376ee&is=6762256e&hm=fef959443d3187dab156923a09d565fc0c6fcc599f64b09477364e901ecc9eef&=&format=webp&quality=lossless)
 
 
 # 0.2. Título.
