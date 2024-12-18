@@ -2,7 +2,7 @@
 ## TEATRO MUNICIPAL DE MARTOS.
 ### Índice.
 
-- 0.0. [Instalación](#Instalación)
+- 0.0. Instalación
 - 0.1. Descarga.
 - 0.2. Título.
 - 0.3. Menú principal.
