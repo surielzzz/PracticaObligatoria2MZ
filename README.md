@@ -66,6 +66,7 @@ Sección donde aparecerá toda la información de los eventos que hay disponible
 
 ### 1.1. Selección de tipo de entradas.
 Cuando elijamos uno de los eventos deseados (A/B/C), nos saldrá otra pestaña donde seleccionaremos el tipo de entrada dependiendo del evento elegido.
+
 ![](https://media.discordapp.net/attachments/1285298181797576846/1306351596346671244/image.png?ex=6763d5fb&is=6762847b&hm=8cad96761ced13b37c03a319ff9316cc9b30cf4ce84b1faf2b503febf28b60a1&=&format=webp&quality=lossless)
 
 
@@ -86,7 +87,9 @@ Dependiendo el evento elegido, se mostraran las entradas con sus respectivas inf
 
 ### 1.5. Mostrar la factura.
 Después de enseñar todas las entradas, pasará a mostrar una pequeña factura con el monto total (aplicado o no el descuento).
+
 ![](https://media.discordapp.net/attachments/1285298181797576846/1306664137639858228/image.png?ex=6763a78f&is=6762560f&hm=fe4208093d907ee597da4c6b35893c0a6720eaa01177a5c397036a4e77119d17&=&format=webp&quality=lossless)
+
 ![](https://media.discordapp.net/attachments/1285298181797576846/1306352273886019666/image.png?ex=6763d69c&is=6762851c&hm=c89fa039e069e90b64efae62db842e0539c55106ebdc2faae19ea955f3d75288&=&format=webp&quality=lossless)
 
 
