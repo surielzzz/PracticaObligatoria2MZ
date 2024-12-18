@@ -50,8 +50,7 @@ Cuando pulsemos, se nos descargará una carpeta comprimida (extensión .zip), la
 
 
 # 0.2. Título.
-![](![image](https://github.com/user-attachments/assets/244a23b7-5920-4560-9f91-954389a7f512)
-)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306350494154752020/image.png?ex=6763d4f4&is=67628374&hm=1279f13f15fa92f06aaef7e40bf6a5187f1da05e29b12aa5ea5c6cd53c06cd7c&=&format=webp&quality=lossless)
 
 
 # 0.3. Menú principal.
