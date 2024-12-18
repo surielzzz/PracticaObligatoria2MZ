@@ -50,7 +50,8 @@ Cuando pulsemos, se nos descargará una carpeta comprimida (extensión .zip), la
 
 
 # 0.2. Título.
-![](https://drive.google.com/file/d/11AgCWOutMJEBc7ouKJrjJyadxHxtD4mn/view?usp=drive_link)
+![](![image](https://github.com/user-attachments/assets/244a23b7-5920-4560-9f91-954389a7f512)
+)
 
 
 # 0.3. Menú principal.
