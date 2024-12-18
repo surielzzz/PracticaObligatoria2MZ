@@ -119,23 +119,29 @@ Esto es para saber cuántos días quedan para el evento desde la fecha introduci
 
 ### 2.3. Enseñar los estados de los eventos.
 Procede a mostrarse el estado del evento seleccionando.
+
 ![](https://media.discordapp.net/attachments/1285298181797576846/1306353515026841621/image.png?ex=6763d7c4&is=67628644&hm=ab81605bfa4d01f102375bb47daba3c2ca14d5291e1883f997a8453f3bb3e777&=&format=webp&quality=lossless)
 ![](https://media.discordapp.net/attachments/1285298181797576846/1306355417261015200/image.png?ex=6763d98a&is=6762880a&hm=9e02e60f003496f035c06d3b16b64cc3dd5450d1592bcf0acda48beb70677b63&=&format=webp&quality=lossless)
+
 Si ya ha sido el evento se mostrará lo siguiente:
+
 ![](https://media.discordapp.net/attachments/1285298181797576846/1306357945994317905/image.png?ex=6763dbe5&is=67628a65&hm=246c6a73205ac54f18c5a47b6d746bf1f9b6d632f3a9a33c25ce011eca157b11&=&format=webp&quality=lossless)
 
 ## 3. Menú de administrador.
 
 ### 3.1. Registro.
 Cuando seleccionamos en el menú principal la opción para ir al menú del administrador, nos pedirá que hagamos un registro para confirmar que tenemos permiso de entrar a la parte administrativa.
+
 ![](https://media.discordapp.net/attachments/1285298181797576846/1306355702578675772/image.png?ex=6763d9ce&is=6762884e&hm=8aea47d66712274c8e5826825b2415190387bb507a73d4816dc4966f1529393c&=&format=webp&quality=lossless)
 
 Después de ingresar correctamente, se mostrará el menú del administrador.
+
 ![](https://media.discordapp.net/attachments/1285298181797576846/1306355827107434516/image.png?ex=6763d9ec&is=6762886c&hm=4e21571f40df7134c6e07ab79eb3cb07abb2a0d501c55bdce04b854d39fd9ecc&=&format=webp&quality=lossless)
 
 
 #### 3.1.1. Consultar los ingresos totales por evento.
 Básicamente, esta sección está hecha para consultar los ingresos totales que tiene cada evento.
+
 ![](https://media.discordapp.net/attachments/1285298181797576846/1306356169732001843/image.png?ex=6763da3d&is=676288bd&hm=85104d4718c304a5dd6c2cca11680142308abffcb1cee9b57df4baa3fde1ecb5&=&format=webp&quality=lossless)
 
 
@@ -143,9 +149,11 @@ Básicamente, esta sección está hecha para consultar los ingresos totales que 
 
 ##### 3.1.2.1. Mostrar los billetes y monedas restantes.
 Aquí verificaremos que estemos devolviendo el dinero para el cambio de manera correcta, en la menor cantidad posible. Para esto tendremos unas existencias fijas en cada billete y moneda.
+
 ![](https://media.discordapp.net/attachments/1285298181797576846/1306356275289788467/image.png?ex=6763da56&is=676288d6&hm=55576d35a41c0ea751c5478651b496a84df792aa2af45a50057fd999778075d7&=&format=webp&quality=lossless)
 
 
 ### 3.1.3. Apagar software.
+
 ![](https://media.discordapp.net/attachments/1285298181797576846/1306356531629129849/image.png?ex=6763da94&is=67628914&hm=8bde6169da433604f9fd8a3918d73dc57ffdbf3b9af23e25a3ffce9bd49c526f&=&format=webp&quality=lossless)
 ![](https://media.discordapp.net/attachments/1285298181797576846/1306356601900236933/image.png?ex=6763daa4&is=67628924&hm=611c205de12bfb7794543f8105759cc66ab5cfb37c2803b975895c182a2fe3d0&=&format=webp&quality=lossless)
