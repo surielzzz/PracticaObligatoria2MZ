@@ -54,44 +54,45 @@ Cuando pulsemos, se nos descargará una carpeta comprimida (extensión .zip), la
 
 
 # 0.3. Menú principal.
-![](https://media.discordapp.net/attachments/1285298181797576846/1306351360144576533/image.png?ex=67365a03&is=67350883&hm=9044bc32a9a1aa4339558630a4547dbee3dccca0c2bbc916a50b8c798fecbc94&=&format=webp&quality=lossless&width=715&height=237)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306351360144576533/image.png?ex=6763d5c3&is=67628443&hm=9b9d8664da5373cd22218e2651dd75baa818fb0eabb817f0ab340107266c3e3a&=&format=webp&quality=lossless)
 
 
 # 0.4. Funcionamiento.
 
 ## 1. Venta de entradas para un evento.
 Sección donde aparecerá toda la información de los eventos que hay disponibles.
-![](https://media.discordapp.net/attachments/1285298181797576846/1306351469678825553/image.png?ex=67365a1d&is=6735089d&hm=dd4ecce746248c6cb55cd576be81aebf824aaf3217b841db66e429f07ea49de1&=&format=webp&quality=lossless&width=718&height=110)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306351469678825553/image.png?ex=6763d5dd&is=6762845d&hm=8f664558232bbf443c333608dbe8f7953727d955060a315144fd3992a25c78de&=&format=webp&quality=lossless)
 
 
 ### 1.1. Selección de tipo de entradas.
 Cuando elijamos uno de los eventos deseados (A/B/C), nos saldrá otra pestaña donde seleccionaremos el tipo de entrada dependiendo del evento elegido.
-![](https://media.discordapp.net/attachments/1285298181797576846/1306351596346671244/image.png?ex=673702fb&is=6735b17b&hm=4f0646a6a9992465342b116c3c1f3d2d54518e7de76468f6f10e8eb2fe0ebb5b&=&format=webp&quality=lossless)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306351596346671244/image.png?ex=6763d5fb&is=6762847b&hm=8cad96761ced13b37c03a319ff9316cc9b30cf4ce84b1faf2b503febf28b60a1&=&format=webp&quality=lossless)
 
 
 ### 1.2. Cantidad de entradas.
 A continuación, pedirá la cantidad de entradas que desean comprar, y se mostrará en la pantalla:
-![](https://media.discordapp.net/attachments/1285298181797576846/1306351737778602096/image.png?ex=6737031d&is=6735b19d&hm=d1b60b2a931115aa5a12215029064ea996385a722be6033d614f1db6db3f3855&=&format=webp&quality=lossless)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306351737778602096/image.png?ex=6763d61d&is=6762849d&hm=f26da839ec13c8ea5c0701942e73cef75fbbcf0e268df7a999803a7e3712c559&=&format=webp&quality=lossless)
 
 
 ### 1.3. Recolección de datos.
 Pediremos datos básicos para poder tener información personal.
-![](https://media.discordapp.net/attachments/1285298181797576846/1306352078997684297/image.png?ex=6737036e&is=6735b1ee&hm=58936b170dbfe9471fa8d96cc22a2432906b6f61d770efaa89fe98418bfeaacc&=&format=webp&quality=lossless&width=722&height=139)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306352078997684297/image.png?ex=6763d66e&is=676284ee&hm=4be9fac96d256334313bd9d4d516a21271f1bd8b7d5c917f82bf6e2c26e9cf61&=&format=webp&quality=lossless)
 
 
 ### 1.4. Mostrar las entradas.
 Dependiendo el evento elegido, se mostraran las entradas con sus respectivas informaciones dentro, así también como un código único, que servirá para evitar falsificaciones.
-![](https://media.discordapp.net/attachments/1285298181797576846/1306663780297478164/image.png?ex=67377cf9&is=67362b79&hm=19a33dd0e81beba5f77273889534d5a72277ef2b9ca592abd8ff2c87152fd94c&=&format=webp&quality=lossless&width=1440&height=458)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306663780297478164/image.png?ex=6763a739&is=676255b9&hm=7546c5396892e818aa44d94571b9753d631715112ec5467831aba5f4f96f831c&=&format=webp&quality=lossless)
 
 
 ### 1.5. Mostrar la factura.
 Después de enseñar todas las entradas, pasará a mostrar una pequeña factura con el monto total (aplicado o no el descuento).
-![](https://media.discordapp.net/attachments/1285298181797576846/1306664137639858228/image.png?ex=67377d4f&is=67362bcf&hm=e539e625ebe3be99aa5804bf74da3e2998de828b7fd099b818156b3603105a2a&=&format=webp&quality=lossless&width=645&height=260)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306664137639858228/image.png?ex=6763a78f&is=6762560f&hm=fe4208093d907ee597da4c6b35893c0a6720eaa01177a5c397036a4e77119d17&=&format=webp&quality=lossless)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306352273886019666/image.png?ex=6763d69c&is=6762851c&hm=c89fa039e069e90b64efae62db842e0539c55106ebdc2faae19ea955f3d75288&=&format=webp&quality=lossless)
 
 
 ### 1.6. Pedir dinero y dar cambio.
 Se te pedirá la cantidad con la que deseas pagar; esta deberá de estar en efectivo. Con el siguiente, te mostrará tu cambio.
-![](https://media.discordapp.net/attachments/1285298181797576846/1306352599548825640/image.png?ex=673703ea&is=6735b26a&hm=01e91048a1e58b923c44774bf819d1da6077d29476f50ea6ba7c2765a5ae2256&=&format=webp&quality=lossless&width=718&height=80)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306352599548825640/image.png?ex=6763d6ea&is=6762856a&hm=47312e4c39d52cb8cb9bee5063493e68cede9ee779f87d5dc70b0b3e9386f289&=&format=webp&quality=lossless)
 
 
 ## 2. Consultar el estado de un evento.
@@ -100,42 +101,44 @@ En algún momento vamos a querer enseñar los eventos existentes y sus respectiv
 
 ### 2.1. Elegir el evento a consultar.
 Se te pedirá por pantalla que introduzca el evento que deseas consultar.
-![](https://media.discordapp.net/attachments/1285298181797576846/1306353355081121904/image.png?ex=6737049e&is=6735b31e&hm=64a01a2e3138ab8120ad03cdc2bdb2da902f9deeebb707354563a099af1c1d09&=&format=webp&quality=lossless&width=718&height=227)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306352783737487370/image.png?ex=6763d716&is=67628596&hm=78ec78c6354bc5678864f3f6ec8f4c07dfbf8b3e69cc298f9d861b356fd9ab43&=&format=webp&quality=lossless)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306353355081121904/image.png?ex=6763d79e&is=6762861e&hm=10c957fd74bcdb6164880c3cfabe43ddc5c0556bfc83e224489a42f70fa5de90&=&format=webp&quality=lossless)
 
 
 ### 2.2. Pedir fecha.
 Esto es para saber cuántos días quedan para el evento desde la fecha introducida.
-![](https://media.discordapp.net/attachments/1285298181797576846/1306353428334776346/image.png?ex=673704b0&is=6735b330&hm=506160b31630cc59e1fc99a52bdeb68ae38cac1932bde76e4c1d17f73e87acdc&=&format=webp&quality=lossless&width=718&height=25)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306353428334776346/image.png?ex=6763d7b0&is=67628630&hm=e9eee434b1d8523bdffa30d35a924d7910a63dd5788d3b3e13e84ebd4d211d7b&=&format=webp&quality=lossless)
 
 
 ### 2.3. Enseñar los estados de los eventos.
 Procede a mostrarse el estado del evento seleccionando.
-![](https://media.discordapp.net/attachments/1285298181797576846/1306353515026841621/image.png?ex=673704c4&is=6735b344&hm=05313be252ede381204bb36fd06435c113be46949faf7a4b2620d8b162628183&=&format=webp&quality=lossless&width=393&height=343)
-![](https://media.discordapp.net/attachments/1285298181797576846/1306355417261015200/image.png?ex=6737068a&is=6735b50a&hm=7bb160800a1f607d224c27b334a5f09969dcf8126214e7c14cb5e71a6f1127f3&=&format=webp&quality=lossless&width=671&height=166)
-
+![](https://media.discordapp.net/attachments/1285298181797576846/1306353515026841621/image.png?ex=6763d7c4&is=67628644&hm=ab81605bfa4d01f102375bb47daba3c2ca14d5291e1883f997a8453f3bb3e777&=&format=webp&quality=lossless)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306355417261015200/image.png?ex=6763d98a&is=6762880a&hm=9e02e60f003496f035c06d3b16b64cc3dd5450d1592bcf0acda48beb70677b63&=&format=webp&quality=lossless)
+Si ya ha sido el evento se mostrará lo siguiente:
+![](https://media.discordapp.net/attachments/1285298181797576846/1306357945994317905/image.png?ex=6763dbe5&is=67628a65&hm=246c6a73205ac54f18c5a47b6d746bf1f9b6d632f3a9a33c25ce011eca157b11&=&format=webp&quality=lossless)
 
 ## 3. Menú de administrador.
 
 ### 3.1. Registro.
 Cuando seleccionamos en el menú principal la opción para ir al menú del administrador, nos pedirá que hagamos un registro para confirmar que tenemos permiso de entrar a la parte administrativa.
-![](https://media.discordapp.net/attachments/1285298181797576846/1306355702578675772/image.png?ex=673706ce&is=6735b54e&hm=d1425ce0b27dfd04ffd69c7d0e075bdc4f250f3d1d333f8641b7c71b9126e438&=&format=webp&quality=lossless&width=460&height=201)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306355702578675772/image.png?ex=6763d9ce&is=6762884e&hm=8aea47d66712274c8e5826825b2415190387bb507a73d4816dc4966f1529393c&=&format=webp&quality=lossless)
 
 Después de ingresar correctamente, se mostrará el menú del administrador.
-![](https://media.discordapp.net/attachments/1285298181797576846/1306355827107434516/image.png?ex=673706ec&is=6735b56c&hm=e6f1d0fcc1bc93606f41370a3f5360b20045c2252f76609939aaee03bbd694b1&=&format=webp&quality=lossless&width=718&height=228)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306355827107434516/image.png?ex=6763d9ec&is=6762886c&hm=4e21571f40df7134c6e07ab79eb3cb07abb2a0d501c55bdce04b854d39fd9ecc&=&format=webp&quality=lossless)
 
 
 #### 3.1.1. Consultar los ingresos totales por evento.
 Básicamente, esta sección está hecha para consultar los ingresos totales que tiene cada evento.
-![](https://media.discordapp.net/attachments/1285298181797576846/1306355983601111225/image.png?ex=67370711&is=6735b591&hm=a64e928a01afc36a8291275950bbb94f7084c98cc09dc2b080a1b364a7fc1bcb&=&format=webp&quality=lossless&width=718&height=180)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306356169732001843/image.png?ex=6763da3d&is=676288bd&hm=85104d4718c304a5dd6c2cca11680142308abffcb1cee9b57df4baa3fde1ecb5&=&format=webp&quality=lossless)
 
 
 #### 3.1.2. Consultar las monedas restantes para el cambio.
 
 ##### 3.1.2.1. Mostrar los billetes y monedas restantes.
 Aquí verificaremos que estemos devolviendo el dinero para el cambio de manera correcta, en la menor cantidad posible. Para esto tendremos unas existencias fijas en cada billete y moneda.
-![](https://media.discordapp.net/attachments/1285298181797576846/1306356275289788467/image.png?ex=67370756&is=6735b5d6&hm=5e2231e1e8b61dac399ff57005a8b0559d863c340448af5ef6a6a5f3ccde848e&=&format=webp&quality=lossless&width=542&height=600)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306356275289788467/image.png?ex=6763da56&is=676288d6&hm=55576d35a41c0ea751c5478651b496a84df792aa2af45a50057fd999778075d7&=&format=webp&quality=lossless)
 
 
 ### 3.1.3. Apagar software.
-![](https://media.discordapp.net/attachments/1285298181797576846/1306356531629129849/image.png?ex=67370794&is=6735b614&hm=f9060e16625236bd2b2c9ef510d52986ec2bee9c35cd5962bbb70665ce591b5a&=&format=webp&quality=lossless&width=718&height=297)
-![](https://media.discordapp.net/attachments/1285298181797576846/1306356601900236933/image.png?ex=673707a4&is=6735b624&hm=2c7fed7f634dbdabaf4c32dd84afb228ee887dc5ef51bbd4ef508d3c5b57bdc0&=&format=webp&quality=lossless&width=437&height=118)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306356531629129849/image.png?ex=6763da94&is=67628914&hm=8bde6169da433604f9fd8a3918d73dc57ffdbf3b9af23e25a3ffce9bd49c526f&=&format=webp&quality=lossless)
+![](https://media.discordapp.net/attachments/1285298181797576846/1306356601900236933/image.png?ex=6763daa4&is=67628924&hm=611c205de12bfb7794543f8105759cc66ab5cfb37c2803b975895c182a2fe3d0&=&format=webp&quality=lossless)
