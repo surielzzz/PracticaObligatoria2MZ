@@ -109,6 +109,7 @@ En algún momento vamos a querer enseñar los eventos existentes y sus respectiv
 ### 2.1. Elegir el evento a consultar.
 Se te pedirá por pantalla que introduzca el evento que deseas consultar.
 ![](https://media.discordapp.net/attachments/1285298181797576846/1306352783737487370/image.png?ex=6763d716&is=67628596&hm=78ec78c6354bc5678864f3f6ec8f4c07dfbf8b3e69cc298f9d861b356fd9ab43&=&format=webp&quality=lossless)
+
 ![](https://media.discordapp.net/attachments/1285298181797576846/1306353355081121904/image.png?ex=6763d79e&is=6762861e&hm=10c957fd74bcdb6164880c3cfabe43ddc5c0556bfc83e224489a42f70fa5de90&=&format=webp&quality=lossless)
 
 
@@ -121,6 +122,7 @@ Esto es para saber cuántos días quedan para el evento desde la fecha introduci
 Procede a mostrarse el estado del evento seleccionando.
 
 ![](https://media.discordapp.net/attachments/1285298181797576846/1306353515026841621/image.png?ex=6763d7c4&is=67628644&hm=ab81605bfa4d01f102375bb47daba3c2ca14d5291e1883f997a8453f3bb3e777&=&format=webp&quality=lossless)
+
 ![](https://media.discordapp.net/attachments/1285298181797576846/1306355417261015200/image.png?ex=6763d98a&is=6762880a&hm=9e02e60f003496f035c06d3b16b64cc3dd5450d1592bcf0acda48beb70677b63&=&format=webp&quality=lossless)
 
 Si ya ha sido el evento se mostrará lo siguiente:
@@ -156,4 +158,5 @@ Aquí verificaremos que estemos devolviendo el dinero para el cambio de manera c
 ### 3.1.3. Apagar software.
 
 ![](https://media.discordapp.net/attachments/1285298181797576846/1306356531629129849/image.png?ex=6763da94&is=67628914&hm=8bde6169da433604f9fd8a3918d73dc57ffdbf3b9af23e25a3ffce9bd49c526f&=&format=webp&quality=lossless)
+
 ![](https://media.discordapp.net/attachments/1285298181797576846/1306356601900236933/image.png?ex=6763daa4&is=67628924&hm=611c205de12bfb7794543f8105759cc66ab5cfb37c2803b975895c182a2fe3d0&=&format=webp&quality=lossless)
