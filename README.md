@@ -7,18 +7,18 @@
 - 0.2. Título.
 - 0.3. Menú principal.
 - 0.4. Funcionamiento.
-- **1. Venta de entradas para un evento.**
+    - **1. Venta de entradas para un evento.**
 - 1.1. Información de eventos.
 - 1.2. Cantidad de entradas.
 - 1.3. Recolección de datos.
 - 1.4. Mostrar las entradas.
 - 1.5. Mostrar la factura.
 - 1.6. Pedir dinero y dar cambio.
-- **2. Consultar el estado de un evento.**
+    - **2. Consultar el estado de un evento.**
 - 2.1. Elegir el evento para consultar.
 - 2.2. Pedir fecha.
 - 2.3. Enseñar información de los eventos.
-- **3. Menú de Administrador.**
+    - **3. Menú de Administrador.**
 - 3.1. Registro.
 - **3.1.1. Consultar los ingresos totales por evento.**
 - 3.1.1.1. Consulta general de ingresos.
