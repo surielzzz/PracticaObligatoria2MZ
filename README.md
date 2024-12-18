@@ -50,7 +50,7 @@ Cuando pulsemos, se nos descargará una carpeta comprimida (extensión .zip), la
 
 
 # 0.2. Título.
-![](https://media.discordapp.net/attachments/1285298181797576846/1306350494154752020/image.png?ex=67365934&is=673507b4&hm=e6c13623f4ab82027b7650d3629b873b5fc11080f231e7113439559adb671596&=&format=webp&quality=lossless&width=718&height=557)
+![]([https://media.discordapp.net/attachments/1285298181797576846/1306350494154752020/image.png?ex=67365934&is=673507b4&hm=e6c13623f4ab82027b7650d3629b873b5fc11080f231e7113439559adb671596&=&format=webp&quality=lossless&width=718&height=557](https://drive.google.com/file/d/11AgCWOutMJEBc7ouKJrjJyadxHxtD4mn/view?usp=drive_link))
 
 
 # 0.3. Menú principal.
