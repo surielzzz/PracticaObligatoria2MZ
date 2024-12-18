@@ -7,24 +7,24 @@
 - 0.2. Título.
 - 0.3. Menú principal.
 - 0.4. Funcionamiento.
-    - **1. Venta de entradas para un evento.**
-- 1.1. Información de eventos.
-- 1.2. Cantidad de entradas.
-- 1.3. Recolección de datos.
-- 1.4. Mostrar las entradas.
-- 1.5. Mostrar la factura.
-- 1.6. Pedir dinero y dar cambio.
-    - **2. Consultar el estado de un evento.**
-- 2.1. Elegir el evento para consultar.
-- 2.2. Pedir fecha.
-- 2.3. Enseñar información de los eventos.
-    - **3. Menú de Administrador.**
-- 3.1. Registro.
-- **3.1.1. Consultar los ingresos totales por evento.**
-- 3.1.1.1. Consulta general de ingresos.
-- **3.1.2. Consultar las monedas restantes para el cambio.**
-- 3.1.2.1. Mostrar los billetes y monedas restantes.
-- **3.1.3. Apagar el software.**
+- **1. Venta de entradas para un evento.**
+    - 1.1. Información de eventos.
+    - 1.2. Cantidad de entradas.
+    - 1.3. Recolección de datos.
+    - 1.4. Mostrar las entradas.
+    - 1.5. Mostrar la factura.
+    - 1.6. Pedir dinero y dar cambio.
+- **2. Consultar el estado de un evento.**
+    - 2.1. Elegir el evento para consultar.
+    - 2.2. Pedir fecha.
+    - 2.3. Enseñar información de los eventos.
+- **3. Menú de Administrador.**
+    - 3.1. Registro.
+    - **3.1.1. Consultar los ingresos totales por evento.**
+        - 3.1.1.1. Consulta general de ingresos.
+    - **3.1.2. Consultar las monedas restantes para el cambio.**
+        - 3.1.2.1. Mostrar los billetes y monedas restantes.
+    - **3.1.3. Apagar el software.**
 
 # 0.0. Instalación.
 Para poder ejecutar el programa debemos instalar el [JDK 23.0.1](http://https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.exe "JDK 23.0.1"), cuando le des clic, se te instalará (debemos de verificar que esté en **C:\Program Files\Java**).
